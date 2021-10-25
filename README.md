@@ -1,5 +1,5 @@
 # testes de mesa
- exercicios basicos que medem a capacidade do aluno/intrevistado
+ exercicios basicos que medem a capacidade do aluno/entrevistado
 ---------------------
 ex: criar um programa que diz quando uma certa cidade A , que aumenta 1.5 por ano ,passará uma certa cidade B , que aumenta 1.2 ao ano, em numero de habitantes.
 
